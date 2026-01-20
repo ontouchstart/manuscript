@@ -1,2 +1,2 @@
 # Manuscript
-- <keep-typing.html>
+- [Keep Typing](keep-typing.html)
