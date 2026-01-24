@@ -24,4 +24,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: ontouchstart/deploy-pages
+        uses: ontouchstart/deploy-pages@v4
