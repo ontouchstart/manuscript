@@ -1,3 +1,3 @@
 # Manuscript
 - [Keep Typing](keep-typing.html)
-- <information-fat.html>
+- [Information Fat](information-fat.html)
