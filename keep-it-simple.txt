@@ -1,0 +1,5 @@
+It is hard to keep it simple.
+
+This is a simple text file with no markup.
+
+It has a file extension .txt so it can be rendered the way it is.
