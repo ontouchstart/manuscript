@@ -1,0 +1,37 @@
+Information Fat
+
+I have been catching up with reading during the precious downtime
+between jobs, on a large Kindle Scribe that allows me to read full
+screen PDF.  The other day I was rereading "The Story of the Human
+Body: Evolution, Health, and Disease" by Daniel E. Lieberman (2013).
+I jumped to Part III, Chapter 10: The Vicious Circle of Too Much
+(location 4207 of 11,117 | 38%). It has some interesting discussion
+about how human species became so efficient at storing energy as
+body fat due to natual selection and why obesity becomes an issue
+in modern days due to low quality high energy diet.  This is the
+knowledge I already had when I started long distance running since
+COVID.
+
+During lunch break I went to Hacker News and got sucked into a
+rabbit hole about "Claude's Constitution" (You can search it on
+Hacker News if you are curious, this page has no link capability.),
+with more than 500 comments and someone posted links to more documents
+about the background of the document they are discussing about.
+Out of curiosity, I downloaded related documents and open them on
+Kindle Scribe with the smallest font, Claude's Constitution (ePub)
+has 1,1584 locations, Claude's Constitution (PDF) has 84 pages,
+arXiv:2212.08073v1 [cs.CL] 15 Dec 2022 has 34 pages, Claude 4.5
+Opus Soul Document (gist) has 1,736 locations.
+
+I can't help noticing that each these documents is about 1/10 of a
+full book. They do take a lot of energy to create and consume. I
+am sure the percentage of people who commented on that Hacker News
+rabbit hole and actually read through at least one of those three
+documents is very small, our brain just don't have energy to consume
+that amount of information.  I have spent weeks to finish the
+Lieberman book and I am sure it took years for Dr. Lieberman to
+write it.
+
+We are in the age of cheap low quality information, nobody has
+energy to digest and so we just store them everywhere as information
+fat.
