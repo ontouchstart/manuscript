@@ -1,36 +1,31 @@
-Teleology vs Causality 
+Teleology vs Causality
 
-I have been reading philosophy recently and 
-thinking about the relation between teleology (pulled by purpose) and causality (pushed by cause).
+I have been reading philosophy recently and thinking about the
+relation between teleology (pulled by purpose) and causality (pushed
+by cause).
 
-George Dyson's "Turing's Cathedral" has 
-some discussion about a 1943 paper by Julian 
-Bigelow and Norbert Wiener, "Behavior, 
-Purpose and Teleology". In the context of 
-that paper, teleology means "negative 
-feedback". This is the essence of cybernetics
-from thermostats all the way to LLMs. 
+George Dyson's "Turing's Cathedral" has some discussion about a
+1943 paper by Julian Bigelow and Norbert Wiener, "Behavior, Purpose
+and Teleology". In the context of that paper, teleology means
+"negative feedback". This is the essence of cybernetics from
+thermostats all the way to LLMs.
 
-I have never noticed the connection between 
-teleology and negative feedback. This is 
-fascinating. 
+I have never noticed the connection between teleology and negative
+feedback. This is fascinating.
 
-In a goal driven model, we do not try to
-explain why or how as long as we know there
-is a goal and some loss function to minimize.
+In a goal driven model, we do not try to explain why or how as long
+as we know there is a goal and some loss function to minimize.
 
-On the other hand, in a causality model, we
-have differential equations and initial and
-boundary conditions, we will solve the 
+On the other hand, in a causality model, we have differential
+equations and initial and boundary conditions, we will solve the
 equations analytically or numerically.
 
-Teleological models fit human psychology well
-because we work to the goal. For example,
-Moore's law is a teleological law, unlike
-Newton's causal laws of physics, the scaling
-is to meet the expectation and maximization 
-of commercial profit.
+Teleological models fit human psychology well because we work to
+the goal. For example, Moore's law is a teleological law, unlike
+Newton's causal laws of physics, the scaling is to meet the expectation
+and maximization of commercial profit.
 
-The AI in the current form of LLMs is fundamentally teleological. So don't ask why.
+The AI in the current form of LLMs is fundamentally teleological.
+So don't ask why.
 
 In some sense, theory of evolution is also teleological.
