@@ -12,7 +12,6 @@ command in vi so that I can take my time to read it later.
 
 :r !man find | col -bx
 
-------------------------------------------------------------------------------
 
 
 FIND(1)                     General Commands Manual                    FIND(1)

@@ -5,7 +5,6 @@ to text file using something like following in vi
 
 :r! man col | col -bx
 
-------------------------------------------------------------------------------
 
 COL(1)                      General Commands Manual                     COL(1)
 
