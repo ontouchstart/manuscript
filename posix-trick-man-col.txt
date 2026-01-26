@@ -1,12 +1,13 @@
-man col | col -b 
+man col | col -bx
 
 This can be used to get a clean output of the man command so we can insert it
 to text file using something like following in vi
 
-:r! man col | col -b
+:r! man col | col -bx
 
 ------------------------------------------------------------------------------
-COL(1)			    General Commands Manual			COL(1)
+
+COL(1)                      General Commands Manual                     COL(1)
 
 NAME
      col – filter reverse line feeds from input
@@ -25,21 +26,21 @@ DESCRIPTION
      The options are as follows:
 
      -b      Do not output any backspaces, printing only the last character
-	     written to each column position.
+             written to each column position.
 
      -f      Forward half line feeds are permitted (``fine'' mode).  Normally
-	     characters printed on a half line boundary are printed on the
-	     following line.
+             characters printed on a half line boundary are printed on the
+             following line.
 
      -h      Do not output multiple spaces instead of tabs (default).
 
      -l num  Buffer at least num lines in memory.  By default, 128 lines are
-	     buffered.
+             buffered.
 
      -p      Force unknown control sequences to be passed through unchanged.
-	     Normally, col will filter out any control sequences from the
-	     input other than those recognized and interpreted by itself,
-	     which are listed below.
+             Normally, col will filter out any control sequences from the
+             input other than those recognized and interpreted by itself,
+             which are listed below.
 
      -x      Output multiple spaces instead of tabs.
 
@@ -49,20 +50,20 @@ DESCRIPTION
      control sequences for carriage motion and their ASCII values are as
      follows:
 
-     ESC-BELL	      reverse line feed (escape then bell).
-     ESC-7	      reverse line feed (escape then 7).
+     ESC-BELL         reverse line feed (escape then bell).
+     ESC-7            reverse line feed (escape then 7).
      ESC-BACKSPACE    half reverse line feed (escape then backspace).
-     ESC-8	      half reverse line feed (escape then 8).
-     ESC-TAB	      half forward line feed (escape than tab).
-     ESC-9	      half forward line feed (escape then 9).  In -f mode,
-		      this sequence may also occur in the output stream.
-     backspace	      moves back one column (8); ignored in the first column
+     ESC-8            half reverse line feed (escape then 8).
+     ESC-TAB          half forward line feed (escape than tab).
+     ESC-9            half forward line feed (escape then 9).  In -f mode,
+                      this sequence may also occur in the output stream.
+     backspace        moves back one column (8); ignored in the first column
      carriage return  (13)
-     newline	      forward line feed (10); also does carriage return
-     shift in	      shift to normal character set (15)
-     shift out	      shift to alternate character set (14)
-     space	      moves forward one column (32)
-     tab	      moves forward to next tab stop (9)
+     newline          forward line feed (10); also does carriage return
+     shift in         shift to normal character set (15)
+     shift out        shift to alternate character set (14)
+     space            moves forward one column (32)
+     tab              moves forward to next tab stop (9)
      vertical tab     reverse line feed (11)
 
      All unrecognized control characters and escape sequences are discarded.
@@ -84,7 +85,7 @@ EXAMPLES
      We can use col to filter the output of man(1) and remove the backspace
      characters ( ^H ) before searching for some text:
 
-	   man ls | col -b | grep HISTORY
+           man ls | col -b | grep HISTORY
 
 SEE ALSO
      expand(1)
@@ -96,4 +97,5 @@ STANDARDS
 HISTORY
      A col command appeared in Version 6 AT&T UNIX.
 
-macOS 26.2		       October 21, 2020 		    macOS 26.2
+macOS 26.2                     October 21, 2020                     macOS 26.2
+
