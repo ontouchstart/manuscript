@@ -1,9 +1,8 @@
 Teleology vs Causality 
 
 I have been reading philosophy recently and 
-thinking about the relation between
-teleology (pulled by purpose) and 
-causality (pushes by cause).
+thinking about the relation between teleology (pulled by purpose)
+and causality (pushes by cause).
 
 George Dyson's "Turing's Cathedral" has 
 some discussion about a 1943 paper by Julian 
@@ -13,7 +12,7 @@ that paper, teleology means "negative
 feedback". This is the essence of cybernetics
 from thermostats all the way to LLMs. 
 
-I have never made the connection between 
+I have never noticed the connection between 
 teleology and negative feedback. This is 
 fascinating. 
 
