@@ -1,15 +1,16 @@
-POSIX (Portable Operating System Interface) is a great keyword
-for you to cut through the noise of google. 
+POSIX (Portable Operating System Interface) is a great keyword for
+you to cut through the noise of google.
 
-If you want to find what man page command to use for some feature, 
-you can google it with "posix *" first, then find what man command to use.
+If you want to find what man page command to use for some feature,
+you can google it with "posix *" first, then find what man command
+to use.
 
-Here is an example. To know about how to find something, I first search 
-"posix find" in Google, it gave me some AI Overview, Wikipedia entry, etc.
-But all I need to know it that I can use following command in vi so that I can
-take my time to read it later.
+Here is an example. To know about how to find something, I first
+search "posix find" in Google, it gave me some AI Overview, Wikipedia
+entry, etc.  But all I need to know it that I can use following
+command in vi so that I can take my time to read it later.
 
-:r !man find | col -bx 
+:r !man find | col -bx
 
 ------------------------------------------------------------------------------
 
