@@ -1,8 +1,7 @@
 Teleology vs Causality 
 
 I have been reading philosophy recently and 
-thinking about the relation between teleology (pulled by purpose)
-and causality (pushes by cause).
+thinking about the relation between teleology (pulled by purpose) and causality (pushes by cause).
 
 George Dyson's "Turing's Cathedral" has 
 some discussion about a 1943 paper by Julian 
