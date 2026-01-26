@@ -24,7 +24,7 @@ have differential equations and initial and
 boundary conditions, we will solve the 
 equations analytically or numerically.
 
-Teleological models fix human psychology well
+Teleological models fit human psychology well
 because we work to the goal. For example,
 Moore's law is a teleological law, unlike
 Newton's causal laws of physics, the scaling
@@ -33,3 +33,4 @@ of commercial profit.
 
 The AI in the current form of LLMs is fundamentally teleological. So don't aks why.
 
+In some sense, theory of evolution is also teleological.
