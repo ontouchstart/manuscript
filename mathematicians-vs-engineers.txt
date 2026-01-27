@@ -20,3 +20,28 @@ this capability, and the rest of it is just a lot of nonsense."
 "You could never tell whether he was doing it because he was seeking
 perfection or because he was worried about reliability."
 
+These are great view points from different perspectives.
+
+Think about a piece of code in some programming language, we can
+do static analysis to find logic issues as a mathematican.  But we
+can also debug it at runtime as an engineer.
+
+The constraint mathematicians facing is the runtime environment,
+which can't be captured by the code alone.  The best we can do it
+validate the code as some data structure. That is what linter and
+compiler do.
+
+The constraint engineers facing is the fundamental logic of the
+code, we can't TDD us out of it unless we understand what is going
+on.
+
+In the modern days of software frameworks, stacks of dependencies
+and machine (AI) generated artifacts, both constraints get amplified
+exponentially. It becomes harder and harder to find root causes of
+issues and easier and easier to introduce problematic code paths
+that are hard to detect by both static analysis and runtime testing.
+
+These challenges require the combination of mathematical and engeering
+mindsets or some new mindset.
+
+We can't GenAI ourselve out of this.
