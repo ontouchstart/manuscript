@@ -23,20 +23,20 @@ Think about a piece of code in some programming language, we can
 do static analysis to find logic issues as a mathematican.  But we
 can also debug it at runtime as an engineer.
 
-The constraint mathematicians facing is the runtime environment,
-which can't be captured by the code alone.  The best we can do it
-validate the code as some data structure. That is what linter and
+One thing mathematicians can't control is the runtime environment,
+which can't be captured by the code itself.  The best we can do is
+to validate the code and data schema. That is what linter and
 compiler do.
 
-The constraint engineers facing is the fundamental logic of the
-code, we can't TDD us out of it unless we understand what is going
-on.
+One think engineers have difficulty to identify at the runtime is
+the fundamental logic of the code, we can't TDD us out of it unless
+we understand what is going on.
 
-In the modern days of software frameworks, stacks of dependencies
-and machine (AI) generated artifacts, both constraints get amplified
-exponentially. It becomes harder and harder to find root causes of
-issues and easier and easier to introduce problematic code paths
-that are hard to detect by both static analysis and runtime testing.
+With modern software frameworks, stacks of dependencies and machine
+(AI) generated artifacts, both constraints get amplified exponentially.
+It becomes harder and harder to find root causes of issues and
+easier and easier to introduce problematic code paths that are hard
+to detect by both static analysis and runtime testing.
 
 These challenges require the combination of mathematical and engeering
 mindsets or some new mindset.
