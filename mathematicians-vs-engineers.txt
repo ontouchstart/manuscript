@@ -8,3 +8,15 @@ with preexisting opinions as to how a computer should be built."
 
 --- Georgy Dyson, "Turing's Cathedral".
 
+"The MANIAC’s logical architecture was indisputably the work of
+Burks, Goldstine, and von Neumann, whatever their ideas’ original
+source. Its physical implementation was indisputably the work of
+Bigelow, and its electronic design was largely the result of teamwork
+between Bigelow, Pomerene, Rosenberg, Slutz, and Ware."
+
+"Go ahead, nothing else matters, get it running at this speed and
+this capability, and the rest of it is just a lot of nonsense."
+
+"You could never tell whether he was doing it because he was seeking
+perfection or because he was worried about reliability."
+
