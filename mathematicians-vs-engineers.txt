@@ -14,9 +14,6 @@ source. Its physical implementation was indisputably the work of
 Bigelow, and its electronic design was largely the result of teamwork
 between Bigelow, Pomerene, Rosenberg, Slutz, and Ware."
 
-"Go ahead, nothing else matters, get it running at this speed and
-this capability, and the rest of it is just a lot of nonsense."
-
 "You could never tell whether he was doing it because he was seeking
 perfection or because he was worried about reliability."
 
@@ -45,3 +42,18 @@ These challenges require the combination of mathematical and engeering
 mindsets or some new mindset.
 
 We can't GenAI ourselve out of this.
+
+There is another view which is closer to what physicists might take,
+i.e., use computer for discovery and simulation. The goal is not
+to prove something or build some product that need to be validated
+and maintained.
+
+Modern systems programming languages like Rust and client/server
+based stateless computation runtime, CI/CD, unit testing and e2e
+testing will give us fantastic tools to create new abstractions and
+runtime environments to simulate new abstract worlds. For example,
+neural networks and large language models give us rich worlds to
+explore and simulate the real world.
+
+"Go ahead, nothing else matters, get it running at this speed and
+this capability, and the rest of it is just a lot of nonsense."
