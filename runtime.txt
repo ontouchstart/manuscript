@@ -1,0 +1,11 @@
+As a runner and engineer, I am fascinated about "runtime", a term
+that have different meanings to different people, or what they are
+doing.
+
+To a runner, it means time spent on running. To a software engineer,
+it means the state of running software.
+
+How would a software engineer who is also a runner understand
+runtime?  This is a question I asked myself when I spent hours on
+running or running software.
+
