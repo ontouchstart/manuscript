@@ -1,0 +1,10 @@
+Mathematicians vs Engineers
+
+"Von Neumann's approach was to bring a handful of engineers into a
+den of mathematicians, rather than a handful of mathematicians into
+a den of engineers. This freed the project from any constraints
+that might have been imposed by an established group of engineers
+with preexisting opinions as to how a computer should be built."
+
+--- Georgy Dyson, "Turing's Cathedral".
+
