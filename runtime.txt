@@ -9,3 +9,18 @@ How would a software engineer who is also a runner understand
 runtime?  This is a question I asked myself when I spent hours on
 running or running software.
 
+A crucial idea of "run" is movement, or change of state. Whether
+in running or computer runtime, if you stop running, there is no
+state change and therefore no runtime.
+
+Contrary to mathematical theorems and computer code, which are
+stateless and static. If a theorem is proved, it is true regarless
+of time. If a piece of computer program code passed the compiler,
+it should always pass the same compiler. Code is data, data is
+timeless.
+
+However, if the compiler runtime changed, for example, it is updated
+to a different version of the language which has different rules,
+the old code might not compile. The code is not runtime. It passed
+at a moment in history and history is data, not runtime. History
+is immutable.
